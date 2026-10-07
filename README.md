@@ -30,6 +30,7 @@ Table of Contents
 #Programs
 
 * [ADVENTURE](http://adventure.sys.t.u-tokyo.ac.jp/)*(C/C++/F90)* - *" University of Tokyo"* :  General-purpose computational mechanics system for large-scale analysis and design.
+* [AgentFEM](https://github.com/haoming-luo/agentfem)*(Python)* - *"AgentFEM contributors"* : Structural and thermal simulation workflows built on FEniCSx, with parameter studies and an interface for AI agents.
 * [Aladdin](http://www.isr.umd.edu/~austin/aladdin.html)*(C)* - *"University of Maryland"* : Computational toolkit for the interactive matrix analysis of large engineering structures, particularly building and highway bridge structures. ([gitClone](https://github.com/king110/Aladdin))
 * [CalculiX](http://www.calculix.de/)*(C++)* - *"MTU Aero Engine"* : 3D Structural (uses abaqus input formatl).
 * [CAST3M](http://www-cast3m.cea.fr/)*()* - *"French Atomic Energy etc."* : .
