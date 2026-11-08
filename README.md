@@ -34,6 +34,7 @@ Table of Contents
 * [CalculiX](http://www.calculix.de/)*(C++)* - *"MTU Aero Engine"* : 3D Structural (uses abaqus input formatl).
 * [CAST3M](http://www-cast3m.cea.fr/)*()* - *"French Atomic Energy etc."* : .
 * [Code_Aster](http://www.code-aster.org/)*(Python)* : A full range of multiphysical analysis and modelling methods.
+* [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) - Open-source Python finite element solver for structural mechanics, supporting static and dynamic analyses, modal methods, and selected nonlinear formulations. [Documentation](https://qfsolver.org/).
 * [Elmer]()*(C/C++/F90)* - *"Finnish Ministry of Education"* : Multiphysics simulation.  
 * [FEBio](http://febio.org/source-code-request/)*()* - *"University of Utah"* : for Biomechanics.
 * [FEATFLOW](http://www.featflow.de/)*(F77)* - *""* : solution of the incompressible Navier-Stokes equations.
